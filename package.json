@@ -1,0 +1,19 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "practice for server and Ui features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/artikhurana/Practice-.git"
+  },
+  "author": "Arti Khurana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artikhurana/Practice-/issues"
+  },
+  "homepage": "https://github.com/artikhurana/Practice-#readme"
+}
